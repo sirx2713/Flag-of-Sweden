@@ -1,0 +1,20 @@
+#blue-box{
+    height: 400px;
+    width: 1200px;
+    background-color: #006AA7;
+    position: relative;
+}
+#blue-box > #yellow-box1{
+    height: 80px;
+    width: 1200px;
+    background-color: #FECC02;
+    position: absolute;
+    top: 160px;
+}
+#blue-box > #yellow-box2{
+    height: 400px;
+    width: 80px;
+    background-color: #FECC02;
+    position: absolute;
+    left: 180px;
+}
